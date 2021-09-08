@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#### Myself Harsh Tripathi, currently persuing Bachelors in C.S.E. from Ajay Kumar Garg Engineering College.
 
 - 🔭 I’m currently working on Projects of Python and Data Science.
 - 🌱 I’m currently learning  Problem Solving in Data Structures and Algorithms using C++.
