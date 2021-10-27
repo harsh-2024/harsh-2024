@@ -2,7 +2,7 @@
 #### Myself Harsh Tripathi, currently persuing Bachelors in C.S.E. from Ajay Kumar Garg Engineering College.  <br> 
 ![Black Technology LinkedIn Banner (2)](https://user-images.githubusercontent.com/85058520/132539426-613a3b8c-7d2c-4b1e-a3d9-c48758f63aa9.gif)
 
-- 🔭 I’m currently working on Projects of Python and Data Science.
+- 🔭 I’m currently working on Flutter Development.
 - 🌱 I’m currently learning  Problem Solving in Data Structures and Algorithms using C++.
 - 📫 How to reach me: 
 :email: tripathiharsh16@gmail.com <br>
