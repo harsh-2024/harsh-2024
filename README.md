@@ -1,12 +1,11 @@
 # 💫About Me :
 **Hi there** 👋 <br> <br>
 *Myself Harsh Tripathi, currently persuing Bachelors in C.S.E. from Ajay Kumar Garg Engineering College.*<br><br>
-🔭 I’m currently working on Flutter Development.<br>
-🌱 I’m currently learning Problem Solving in Data Structures and Algorithms using C++.<br>
+🔭 Flutter Developer (Android & iOS) | Lead Coordinator @Blockchain Research Lab<br>
 📫 How to reach me:<br>
 📧 tripathiharsh16@gmail.com<br>
 🔗 www.linkedin.com/in/harsh-tripathi-7ba9391b8<br>
-😄 Pronouns: He/His.<br>
+
 
 
 ## 🌐Socials
